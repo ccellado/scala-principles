@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/taika/documents/scala_coursera_true/patmat/src/main/scala/patmat/Huffman.scala:219:11: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: List((x: Huffman.this.Bit forSome x not in (0, 1)))[0m
+[0m[[0m[33mwarn[0m] [0m[0m          bits match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

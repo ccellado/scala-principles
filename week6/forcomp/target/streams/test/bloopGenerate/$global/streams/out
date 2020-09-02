@@ -1,0 +1,4 @@
+[debug] [forcomp-test] Classpath dependencies List()
+[debug] [forcomp-test] Dependencies from configurations List(forcomp)
+[debug] Bloop wrote the configuration of project 'forcomp-test' to '/home/taika/documents/scala_coursera_true/forcomp/.bloop/forcomp-test.json'
+[success] Generated .bloop/forcomp-test.json

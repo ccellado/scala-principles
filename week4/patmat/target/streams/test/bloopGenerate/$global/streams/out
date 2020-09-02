@@ -1,0 +1,4 @@
+[debug] [patmat-test] Classpath dependencies List()
+[debug] [patmat-test] Dependencies from configurations List(patmat)
+[debug] Bloop wrote the configuration of project 'patmat-test' to '/home/taika/documents/scala_coursera_true/patmat/.bloop/patmat-test.json'
+[success] Generated .bloop/patmat-test.json
